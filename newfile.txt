@@ -2,5 +2,9 @@ new file on github
 hello
 hi
 chnaged
+<<<<<<< HEAD
 
 vscode
+=======
+new chnaged
+>>>>>>> 4dd59652194972049349f6fe390181428899374a
